@@ -405,7 +405,7 @@ The model uses a simplified VGG-style architecture:
 8. Inference: Model processes (1, 3, 64, 64) tensor
 ```
 
-## 🔬 Model Training (Not Included)
+##  Model Training 
 
 This repository contains only the inference application. To train your own model:
 
@@ -416,9 +416,11 @@ This repository contains only the inference application. To train your own model
 5. **Save**: `torch.save(model.state_dict(), 'best_model.pth')`
 6. **Deploy**: Replace `best_model.pth` in this application
 
+7. Note: model was trained before and best_model.pth was choosen which give maximum Top-1 Test Accuracy which is not part of this project 
+
 ## References
 
 - **TinyVGG Architecture**: [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 - **Flask Documentation**: [https://flask.palletsprojects.com/](https://flask.palletsprojects.com/)
 - **PyTorch**: [https://pytorch.org/](https://pytorch.org/)
-- **Apple Diseases**: Plant pathology resources for rust and powdery mildew
+- 
