@@ -26,17 +26,6 @@ The application classifies apple leaves into three categories:
 | **Rust**           | Apple rust disease (fungal infection) | Orange-brown spots, rust-colored lesions     |
 | **Powdery Mildew** | Powdery mildew infection              | White, powdery coating on leaf surface       |
 
-### Sample Images
-
-Below are examples of the different apple leaf conditions the model can detect:
-
-**Healthy Apple Leaf:**
-![Healthy Apple Leaf](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/d3a51a51-bbae-4a73-8fab-e0a55f5bf02b)
-_Clean, green leaf with no disease symptoms_
-
-**Powdery Mildew Infected Leaf:**
-![Powdery Mildew](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/4d540a71-d39a-4e3b-849c-c6b93f1d842b)
-_White, powdery coating characteristic of powdery mildew infection_
 
 ## Project Structure
 
