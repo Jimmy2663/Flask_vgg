@@ -1,4 +1,4 @@
-# Apple Leaf Disease Detection Web Application
+# Apple Leaf Disease Classification Web Application
 
 A **Flask-based web application** for real-time apple leaf disease classification using a pretrained **TinyVGG** deep learning model. This interactive application allows users to upload apple leaf images and receive instant disease predictions, helping identify three common conditions: Healthy, Rust, and Powdery Mildew.
 
